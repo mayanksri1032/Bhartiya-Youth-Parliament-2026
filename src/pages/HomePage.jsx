@@ -250,7 +250,7 @@ useEffect(() => {
             {/* Vivekananda Image */}
             <motion.div {...fadeIn} className="lg:col-span-4 flex justify-center">
               <img
-                src="https://horizons-cdn.hostinger.com/27996bb3-5e48-436a-88f2-2463a212d901/d16b312e9f7770fd9ddf83f840078a30.png"
+                src=""
                 alt="Swami Vivekananda"
                 className="w-full max-w-xs sm:max-w-sm md:max-h-[500px] object-contain mx-auto"
                 loading="lazy"
