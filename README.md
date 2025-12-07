@@ -134,3 +134,7 @@ Website: www.cosmoinfomis.in
 Email : info@cosmoinfomis.in
 
 Phone: +91 94535 46327
+
+THIS PROJECT IS TERMINATED BY US
+THIS PROJECT IS TERMINATED BY US 
+THIS PROJECT IS TERMINATED BY US 
